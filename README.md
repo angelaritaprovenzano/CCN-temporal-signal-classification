@@ -1,5 +1,3 @@
-### CNN-temporal-signal-classification
-
 # Temporal Signals Classification using CNN
 
 This repository contains a Jupyter notebook for classifying temporal signals using Convolutional Neural Networks (CNNs). The goal is to explore how CNNs can effectively extract features from time series data for accurate classification.
